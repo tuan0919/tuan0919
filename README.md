@@ -1,89 +1,61 @@
-## Hi there 👋
 
-<!-- # Code -->
-<!-- ### 😤 Slogan
-Fo lô ti nô! Quá ghê gớm! Những tình huống buff bẩn! 🎮
+<p align="center">
+<img src="https://img.shields.io/badge/Discord-connect_with_me-blue?logo=discord"/>
+<img src="https://img.shields.io/badge/Facebook-connect_with_me-blue?logo=facebook"/>
+</p>
+<h2 align="center">
+  Technologies
+<img src="https://cdn.discordapp.com/emojis/736472637353623613.gif?v=1" width="40">
+</h2>
 
-![image](https://user-images.githubusercontent.com/66912536/178892553-8e5f173f-e599-4935-a523-770a360f58d2.png)
--->
+<table align="center">
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,python,spring,maven,hibernate,nginx"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,sass,js,ts,figma,jquery"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,visualstudio,webstorm,sublime"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana,bash,kafka"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
+    </tr>
+</table>
 
-<!--
-**huynhit24/huynhit24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<h2 align="center">My stats <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
-Here are some ideas to get you started:
+<h3 align="left">Activity:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-### 🛠 My knowledge
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
--->
-<!-- ### 📚 Github Status -->
-<p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tuan0919&theme=react)](https://github.com/tuan0919/github-readme-activity-graph)
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tuan0919&show_icons=true&theme=tokyonight" height="175">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuan0919&layout=compact&theme=tokyonight&langs_count=10" height="175">
 </p>
-<!--
-### ❤ Projects
-<ul>
-  <ol>
-    <a href="https://tuan0919.github.io/bubble-animation/">
-      ✅ bubble-animation
-    </a>
-   </ol>
-   <ol>
-    <a href="https://tuan0919.github.io/password-validation-check/">
-      ✅ password-validation-check
-    </a>
-  </ol>
-  <ol>
-    <a href="https://tuan0919.github.io/neumorphism/">
-      ✅ neumorphism
-    </a>
-  </ol>
-  <ol>
-    <a href="https://tuan0919.github.io/animated-magic-menu-indicator/">
-      ✅ animated-magic-menu-indicator
-    </a>
-  </ol>
-  <ol>
-    <a href="https://tuan0919.github.io/dropdown-menu/">
-      ✅ dropdown-menu
-    </a>
-  </ol>
-  <ol>
-    <a href="https://tuan0919.github.io/validator-form/">
-      ✅ validator-form
-    </a>
-  </ol>
-  <ol>
-    <a href="https://tuan0919.github.io/toast-messages/">
-      ✅ toast-messages
-    </a>
-  </ol>
-  <ol>
-    <a href="https://tuan0919.github.io/tabs-ui/">
-      ✅ tabs-ui
-    </a>
-  </ol>
-</ul><br/>
-
-### 💻 Game
-<p> 
-  <img src="https://github.com/TamNguyenS/TamNguyenS/blob/output/github-contribution-grid-snake.svg" alt="huynhit24" /> 
+<p align="center">
+  <a href="https://github.com/RResabala2015">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuan0919&&theme=tokyonight" alt="RResabala2015" />
+  </a>
 </p>
--->
-
