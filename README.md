@@ -1,20 +1,20 @@
-## Xin chào, Mình là Nguyễn Quốc Anh Tuấn
-Hiện tại đang là sinh viên công nghệ thông tin trường đại học **Nông lâm thành phố Hồ Chí Minh**.
+## Xin chào, mình là Nguyễn Quốc Anh Tuấn
+💬 Hiện tại đang là sinh viên công nghệ thông tin trường đại học **Nông lâm thành phố Hồ Chí Minh**.
 
-Đây là trang github cá nhân của mình, dùng để lưu trữ lại các kiến thức trong quá trình học tại trường cũng như các dự án mà mình đang làm.
+💬 Đây là trang github cá nhân của mình, dùng để lưu trữ lại các kiến thức trong quá trình học tại trường cũng như các dự án mà mình đang làm.
 
-Hiện tại, định hướng của mình là **Full Stack Developer**, công nghệ đang sử dụng là **SpringBoot**, kiến trúc đang tìm hiểu là **Microservices**.
+💬 Hiện tại, định hướng của mình là **Full Stack Developer**, công nghệ đang sử dụng là **SpringBoot**, kiến trúc đang tìm hiểu là **Microservices**.
 
-Bạn có thể kết nối với mình qua:
+📫 Bạn có thể kết nối với mình qua:
 
 <p align="left">
-<img src="https://img.shields.io/badge/Discord-kết_bạn_với_mình-blue?logo=discord"/>
-<img src="https://img.shields.io/badge/Facebook-kết_bạn_với_mình-blue?logo=facebook"/>
+<img src="https://img.shields.io/badge/Discord-(Tuan🐤_--_Id:0936565257)-blue?logo=discord"/>
+<a href="https://www.facebook.com/profile.php?id=100073642981186"><img src="https://img.shields.io/badge/Facebook-kết_bạn_với_mình-blue?logo=facebook"/></a>
 </p>
 
 
 <h2 align="center">
-  Dưới đây là các công nghệ mình đã học được 
+  Dưới đây là các công nghệ mình tìm hiểu 
 <img src="https://cdn.discordapp.com/emojis/736472637353623613.gif?v=1" width="40">
 </h2>
 
@@ -41,15 +41,15 @@ Bạn có thể kết nối với mình qua:
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,visualstudio,webstorm,sublime"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,idea,eclipse,visualstudio,webstorm,sublime"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana,bash,kafka"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=redis,grafana,bash,kafka"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,linux"/></td>
     </tr>
 </table>
 
