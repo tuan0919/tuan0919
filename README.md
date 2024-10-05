@@ -1,10 +1,20 @@
+## Xin chào, Mình là Nguyễn Quốc Anh Tuấn
+Hiện tại đang là sinh viên công nghệ thông tin trường đại học **Nông lâm thành phố Hồ Chí Minh**.
 
-<p align="center">
-<img src="https://img.shields.io/badge/Discord-connect_with_me-blue?logo=discord"/>
-<img src="https://img.shields.io/badge/Facebook-connect_with_me-blue?logo=facebook"/>
+Đây là trang github cá nhân của mình, dùng để lưu trữ lại các kiến thức trong quá trình học tại trường cũng như các dự án mà mình đang làm.
+
+Hiện tại, định hướng của mình là **Full Stack Developer**, công nghệ đang sử dụng là **SpringBoot**, kiến trúc đang tìm hiểu là **Microservices**.
+
+Bạn có thể kết nối với mình qua:
+
+<p align="left">
+<img src="https://img.shields.io/badge/Discord-kết_bạn_với_mình-blue?logo=discord"/>
+<img src="https://img.shields.io/badge/Facebook-kết_bạn_với_mình-blue?logo=facebook"/>
 </p>
+
+
 <h2 align="center">
-  Technologies
+  Dưới đây là các công nghệ mình đã học được 
 <img src="https://cdn.discordapp.com/emojis/736472637353623613.gif?v=1" width="40">
 </h2>
 
@@ -44,18 +54,18 @@
 </table>
 
 <p align="center">
-<h2 align="center">My stats <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<h2 align="center">Hoạt động trong github <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
-<h3 align="left">Activity:</h3>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tuan0919&theme=react)](https://github.com/tuan0919/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuan0919&show_icons=true&theme=tokyonight" height="175">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuan0919&layout=compact&theme=tokyonight&langs_count=10" height="175">
-</p>
 <p align="center">
   <a href="https://github.com/RResabala2015">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuan0919&&theme=tokyonight" alt="RResabala2015" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuan0919&show_icons=true&theme=tokyonight" height="175">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuan0919&layout=compact&theme=tokyonight&langs_count=10" height="175">
+</p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tuan0919&theme=react)](https://github.com/tuan0919/github-readme-activity-graph)
+
