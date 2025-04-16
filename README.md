@@ -12,6 +12,7 @@
 <a href="https://www.facebook.com/profile.php?id=100073642981186"><img src="https://img.shields.io/badge/Facebook-kết_bạn_với_mình-blue?logo=facebook"/></a>
 </p>
 
+Porfolio: https://anhtuan.online/
 
 <h2 align="center">
   Dưới đây là các công nghệ mình tìm hiểu 
@@ -21,7 +22,7 @@
 <table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,python,spring,maven,hibernate,nginx"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,python,spring,maven,hibernate,nginx,go"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
@@ -29,11 +30,11 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,jenkins,aws"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
@@ -56,11 +57,7 @@
 <p align="center">
 <h2 align="center">Hoạt động trong github <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
-<p align="center">
-  <a href="https://github.com/RResabala2015">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuan0919&&theme=tokyonight" alt="RResabala2015" />
-  </a>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tuan0919&theme=vue-dark&locale=vi&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tuan0919&show_icons=true&theme=tokyonight" height="175">
