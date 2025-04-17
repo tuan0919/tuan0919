@@ -57,7 +57,9 @@ Porfolio: https://anhtuan.online/
 <p align="center">
 <h2 align="center">Hoạt động trong github <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tuan0919&theme=vue-dark&locale=vi&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tuan0919&theme=react&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tuan0919&show_icons=true&theme=tokyonight" height="175">
