@@ -63,7 +63,7 @@ Porfolio: https://anhtuan.online/
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tuan0919&show_icons=true&theme=tokyonight" height="175">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuan0919&layout=compact&theme=tokyonight&langs_count=10" height="175">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuan0919&layout=compact&exclude_repo=l4d2-dedicated-server&theme=tokyonight&langs_count=10" height="175">
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tuan0919&theme=react)](https://github.com/tuan0919/github-readme-activity-graph)
